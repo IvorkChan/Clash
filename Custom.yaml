@@ -1,2 +1,2 @@
-payload:
+rules:
   - DOMAIN-SUFFIX,cdn.ubi.com,DIRECT
